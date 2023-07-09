@@ -1,5 +1,4 @@
-# CSMA-CD_Project
-#Simulação de Rede CSMA/CD 1-persistente
+# Simulação de Rede CSMA/CD 1-persistente
 
 Este projeto consiste em uma simulação de uma rede de computadores utilizando o protocolo CSMA/CD 1-persistente. O código foi implementado em MATLAB e permite visualizar o funcionamento dessa técnica de acesso ao meio.
 
